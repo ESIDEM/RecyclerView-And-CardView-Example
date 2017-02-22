@@ -86,19 +86,6 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.ViewHolder
 
 
 
-//        Typeface titleTypeFace = Typeface.createFromAsset(mContext.getAssets(), "fonts/JosefinSans-Bold.ttf");
-//        titleTextView.setTypeface(titleTypeFace);
-//
-//        Typeface subtitleTypeFace =
-//                Typeface.createFromAsset(mContext.getAssets(), "fonts/JosefinSans-SemiBoldItalic.ttf");
-//        subtitleTextView.setTypeface(subtitleTypeFace);
-//
-//        Typeface detailTypeFace = Typeface.createFromAsset(mContext.getAssets(), "fonts/Quicksand-Bold.otf");
-//        detailTextView.setTypeface(detailTypeFace);
-//
-//        detailTextView.setTextColor(ContextCompat.getColor(mContext, LABEL_COLORS.get(recipe.label)));
-//        return convertView;
-//    }
 
 
     @Override
